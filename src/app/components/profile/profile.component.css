@@ -1,0 +1,26 @@
+
+
+.card{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    display: block;
+    padding: 18px;
+    
+}
+
+.limo{
+    border-radius: 4px;
+    background-color: #1063a7;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;  
+}
